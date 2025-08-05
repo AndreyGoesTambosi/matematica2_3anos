@@ -27,6 +27,7 @@ geraSenha()
 
 const campoSenha = document.querySelector('#campo-senha');
 const checkbox = document.querySelectorAll('.checkbox');
+console.log(checkbox);
 
 const letrasMaiusculas = "ABCDEFGHIJKLMNOPQRSTUVXYWZ";
 geraSenha()
